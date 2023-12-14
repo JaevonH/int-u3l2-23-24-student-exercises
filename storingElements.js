@@ -1,10 +1,12 @@
 // CODE ALONG
 // 1. Create a variable called `painting1` that stores the html element with the class `painting-1` using querySelector.
 
+// 2. Create a variable called `painting1` that stores the html element with the id `painting-2` using querySelector.
 
+
+// 3. Confirm that we created the variables properly by printing our variables to the console
 
 // CODE SOLO
-// 2. Create a variable called `painting2` that stores the html element with the class `painting-2` using querySelector.
 
 // 3. Create a variable called `painting3` that stores the html element with the class `painting-3` using querySelector.
 
